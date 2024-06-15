@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: auto;
+    padding: 2em;
+}
+h1{
+    font-weight: bold;
+}
+.row{
+    padding: 1rem;
+}
+.barra{
+    border-style: solid;
+    border-color: #ff266e;
+    height: 250px;
+    margin-top: 5px;
+}
